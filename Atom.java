@@ -27,8 +27,6 @@ public class Atom {
 
     //es inch apush kod a
 
-    //Anul branch
-
     static void startResolution (HashMap<String, LinkedList<Atom>> setClause){
 
         HashMap<String, LinkedList<Atom>> trueGroup = new HashMap<>();
