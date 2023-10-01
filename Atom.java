@@ -25,6 +25,8 @@ public class Atom {
         this.index = -1;
     }
 
+    //es inch apush kod a
+
     static void startResolution (HashMap<String, LinkedList<Atom>> setClause){
 
         HashMap<String, LinkedList<Atom>> trueGroup = new HashMap<>();
